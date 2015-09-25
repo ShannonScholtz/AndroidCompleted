@@ -1,0 +1,11 @@
+MotoRental is a motorbike rental service 
+
+This android application allows you to rent motorcycles where ever you 
+are fast and clean with no hassle. 
+
+In this application you are able to add customer details, make your rental 
+and it also allows you to view all our customers which have or still are renting 
+our motorcycles.
+
+On the contact us page you are able to view the sales team avaible and rquest them
+personally by name when contacting us.
